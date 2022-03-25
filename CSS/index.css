@@ -23,7 +23,7 @@ button:hover{
     background-color: white;
 }
 .container{
-    max-width:100%;    
+   max-width:1400px;    
    margin: 0;
 }
 header{
@@ -179,14 +179,14 @@ header a:hover{
     height: 100vh;
 }
 #Ubicacion h3{
-    font-size: 10px;
+    font-size: 30px;
 }
 .mapa{
    width:80vh;
 }
 
 #Ubicacion iframe{
-    width: 80vh;
+    width: 50vh;
     height: 50vh;
    
 }
